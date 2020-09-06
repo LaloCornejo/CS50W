@@ -11,5 +11,5 @@ def lalo( request ):
 def juan( request ):
     return HttpResponse( 'Hola Juan' )
 
-def pedro( request ):
-    return HttpResponse( 'Hola Pedro' )
+def pablo( request ):
+    return HttpResponse( 'Hola Pablo' )
